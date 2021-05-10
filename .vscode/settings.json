@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/e7a55fcb-931f-41ac-a259-5988d5c55048/resourceGroups/Shared-Resource-Group/providers/Microsoft.Web/sites/statutesync-dev",
+    "appService.deploySubpath": "."
+}
